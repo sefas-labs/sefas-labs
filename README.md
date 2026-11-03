@@ -1,4 +1,4 @@
-# Hi, I'm Pietro 👋
+# Hi, I'm Pietro
 
 ### Senior Full Stack Engineer | Technical Lead | SaaS & Cloud Architecture
 
@@ -10,7 +10,7 @@ I've collaborated with international teams across the US, Europe, and Asia, deli
 
 ---
 
-### 🚀 What I Do
+### What I Do
 
 - **SaaS Engineering:** Application architecture, multi-tenant system design, authentication, authorization, and API integrations.
 - **Backend & Distributed Systems:** REST APIs, GraphQL, microservices, asynchronous processing, and event-driven workflows.
@@ -18,7 +18,7 @@ I've collaborated with international teams across the US, Europe, and Asia, deli
 - **Cloud & DevOps:** AWS infrastructure, Docker, CI/CD pipelines, monitoring, and production operations.
 - **Technical Leadership:** System design, code reviews, mentoring, technical decision-making, and cross-functional collaboration.
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 | Area | Technologies |
 |---|---|
@@ -31,7 +31,7 @@ I've collaborated with international teams across the US, Europe, and Asia, deli
 | DevOps | Docker, GitHub Actions, CI/CD, Terraform |
 | Search & Data | OpenSearch, Elasticsearch |
 
-### 💼 Selected Experience
+### Selected Experience
 
 **Fintech & Payment Systems**
 
@@ -49,7 +49,7 @@ Designed and deployed an end-to-end e-commerce and retail management platform, i
 
 Currently leading the technical development of an early-stage AI SaaS platform, focusing on multi-tenant architecture, authentication, tenant isolation, and AI-enabled workflows.
 
-### 🧠 Engineering Philosophy
+### Engineering Philosophy
 
 I believe great software engineering goes beyond writing code.
 
@@ -57,9 +57,8 @@ It's about designing systems that are **maintainable, reliable, scalable, and al
 
 I enjoy solving complex technical problems, improving existing architectures, and helping engineering teams deliver better software.
 
-### 📫 Let's Connect
+### Let's Connect
 
 - **LinkedIn:** [linkedin.com/in/pietro-sanjines](https://www.linkedin.com/in/pietro-sanjines/)
-- **GitHub:** [github.com/sefas-labs](https://github.com/sefas-labs)
 
 **Open to international remote opportunities in Senior Software Engineering, Full Stack Engineering, and Technical Leadership.**
